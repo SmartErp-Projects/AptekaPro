@@ -1,8 +1,16 @@
 {
-  "updater": {
-    "url": ""
-  },
-  "data": {
-    "url": ""
-  }
+  "files": [
+    {
+      "version":  "1.0",
+      "name": "updater.exe",
+      "url": "https://sdfsfds",
+      "md5": "3dfa345fsdfljat"
+    },
+    {
+      "version": "1.0",
+      "name": "AptekaPro.exe",
+      "url": "https://",
+      "md5": "ae5sdfasf"
+    }
+  ]
 }
